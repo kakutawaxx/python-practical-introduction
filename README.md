@@ -1,2 +1,4 @@
 # python-practical-introduction
-Study log of Python Practical Introduction
+
+This repository contains my study notes and code
+while learning Python through "Python Practical Introduction".
